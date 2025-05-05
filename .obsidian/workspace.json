@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "26522d8a0f61bfc6",
+        "id": "37ce23b76622812f",
         "type": "tabs",
         "children": [
           {
-            "id": "90f00bc9dd7228da",
+            "id": "d306d744924b9d96",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -158,9 +158,16 @@
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false
+      "command-palette:打开命令面板": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "90f00bc9dd7228da",
-  "lastOpenFiles": []
+  "active": "d306d744924b9d96",
+  "lastOpenFiles": [
+    "爱，释放与性压抑：谈兔娘与女仆咖啡厅.md",
+    "杂谈主题录.md",
+    "永恒的命题： 2025长沙中考改革.md",
+    "~$语文.pptx",
+    "语文.pptx"
+  ]
 }
